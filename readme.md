@@ -4,17 +4,15 @@ A simple, plaintext recipe database
 
 # Getting Started
 
-This is a Jekyll build. Make sure you have Jekyll [installed](https://jekyllrb.com/). To install, run this command in the terminal (or iTerm, etc):
+This is a [Jekyll](https://jekyllrb.com/) build.
 
-```gem install bundler jekyll```
+Setup:
 
-or to check if you've got it installed already:
+```bundle install```
 
-```jekyll -v```
+Test:
 
-Clone or download this repo. Navigate to the folder in terminal (or iTerm, etc), and then run:
-
-```jekyll serve```
+```bin/dev```
 
 With default settings, you should be able to view the site locally at `http://127.0.0.1:4000/`
 
@@ -39,8 +37,3 @@ A component recipe is a special recipe made up of other recipes. To make a new c
 - place your smaller, single recipes into the /_components folder
 - make a new recipe like normal in the /_recipes folders
 - in the frontmatter of this new recipe, include your recipes from the /_components folder (instead of the usual Ingredeints list)
-
-You can an example on the Red Berry Tart recipe. 
-
-- [example Markdown](https://raw.githubusercontent.com/clarklab/chowdown/gh-pages/_recipes/red-berry-tart.md)
-- [example recipe page](http://chowdown.io/recipes/red-berry-tart.html)
