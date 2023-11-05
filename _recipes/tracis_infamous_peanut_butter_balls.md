@@ -2,8 +2,7 @@
 
 layout: recipe
 title: "Traci's Infamous Peanut Butter Balls"
-image:  peanut-butter-balls.jpg
-tags: holiday, christmas, chocolate, peanut-butter
+tags: holidays, christmas, desserts
 
 ingredients:
 - 2 sticks butter
