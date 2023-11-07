@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Peanut Butter Krispies Layered Brownies"
+image: peanut-butter-krispies-brownies.jpg
 tags: desserts
 
 ingredients:
@@ -34,7 +35,7 @@ directions:
 
 ---
 
-Dark Chocolate Brownies layered with mini Rolos and Peanut Butter Krispies. Thanks to Cook's Illustrated for the delicious recipe for the brownie base!
+Dark Chocolate Brownies layered with mini Rolos and Peanut Butter Krispies.
 
 **Notes**
 
