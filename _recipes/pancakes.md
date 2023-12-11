@@ -10,6 +10,7 @@ ingredients:
 - 1 1/3 Tbsp baking powder
 - 2 tsp baking soda
 - 2 tsp salt
+- chocolate chips (handful or to taste)
 - WET INGREDIENTS
 - 4 eggs
 - 3 cups of whole milk
@@ -21,10 +22,10 @@ directions:
 - Preheat skillet or griddle to 350 degrees.
 - Combine all dry ingredients in a large bowl.
 - Combine all wet ingredients in a medium bowl.
-- Power wet mixture into dry ingredient bowl and whisk until there are few
-  lumps.
+- Fold in the wet mixture to dry ingredients and blend gently until most of the large lumps are gone.
+- Dab large amounts of butter on hot skillet.
 - Scoop 1/3 cup onto hot griddle and cook through, flipping halfway.
-- Add chocolate chips as a bonus!
+
 
 ---
 
