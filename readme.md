@@ -37,3 +37,16 @@ A component recipe is a special recipe made up of other recipes. To make a new c
 - place your smaller, single recipes into the /_components folder
 - make a new recipe like normal in the /_recipes folders
 - in the frontmatter of this new recipe, include your recipes from the /_components folder (instead of the usual Ingredeints list)
+
+# Tags
+
+```
+{% assign sorted_tags = site.recipes | map: 'tags' | join: ','  | split: ',' | uniq | sort %}
+<ul>
+{% for tag in sorted_tags %}
+  <li>
+      {{ tag }}
+  </li>
+{% endfor %}
+</ul>
+```
