@@ -16,8 +16,9 @@ task :new do |t, args|
   File.open(recipe_path, "w") do |f|
     f.write(<<~EOF)
       ---
+
       layout: recipe
-      title: #{post_title}
+      title: "#{post_title}"
       tags: tags, go, here
 
       ingredients:
