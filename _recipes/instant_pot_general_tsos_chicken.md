@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: Instant Pot General Tso's Chicken
+title: "Instant Pot General Tso's Chicken"
 tags: dinner instant_pot
 
 ingredients:
@@ -29,3 +29,7 @@ directions:
 - Place your pot back on saute and bring it to a slight boil.
 - Whisk in cornstarch until the mixture turns thick and bubbly, about 2 minutes.
 - Serve over warm rice. Sprinkle with green onions and sesame seeds.
+
+---
+
+Easy weeknight dinner.
