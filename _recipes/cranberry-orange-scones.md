@@ -8,8 +8,7 @@ ingredients:
 - 1 cup sour cream
 - 1 tsp baking soda
 - 4 cups flour
-- 1/2 cup splenda
-- 1/2 cup sugar
+- 3/4 cup sugar
 - 1/4 cup dry milk
 - 1/4 tsp baking soda
 - 2 tsp baking powder
