@@ -19,6 +19,7 @@ task :new do |t, args|
 
       layout: recipe
       title: "#{post_title}"
+      image: "#{base_filename}.jpg"
       tags: tags, go, here
 
       ingredients:
