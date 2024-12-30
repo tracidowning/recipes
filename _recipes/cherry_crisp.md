@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Cherry Crisp"
+image: "cherry-crisp.jpg"
 tags: desserts
 
 ingredients:

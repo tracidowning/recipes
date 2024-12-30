@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Sausage Bread"
+image: "sausage-bread.jpg"
 tags: holidays, christmas, breads, breakfast 
 
 ingredients:

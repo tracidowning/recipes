@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Pumpkin Bread with Olive Oil and Rosemary"
+image: "pumpkin-bread.jpg"
 tags: breakfast, bread
 
 ingredients:

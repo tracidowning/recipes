@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Instant Pot General Tso's Chicken"
+image: "instant-pot-general-tso.jpg"
 tags: dinner instant_pot
 
 ingredients:

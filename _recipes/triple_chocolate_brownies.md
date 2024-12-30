@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Triple Chocolate Brownies"
+image: "triple-chocolate-brownies.jpg"
 tags: desserts
 
 ingredients:

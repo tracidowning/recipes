@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Zucchini Bread"
+image: "zucchini-bread.jpg"
 tags: holidays, breads
 
 ingredients:

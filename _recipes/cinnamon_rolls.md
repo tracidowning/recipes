@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Traci's Cinnamon Rolls"
+image: "cinnamon-rolls.jpg"
 tags: breakfast, bread
 
 ingredients:

@@ -1,7 +1,8 @@
 ---
 
 layout: recipe
-title: Creamy Cottage Cheese Waffles
+title: "Creamy Cottage Cheese Waffles"
+image: "waffles.jpg"
 tags: breakfast
 
 ingredients:

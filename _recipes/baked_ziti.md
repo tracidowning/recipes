@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Baked Ziti"
+image: "baked-ziti.jpg"
 tags: dinner, pasta
 
 ingredients:

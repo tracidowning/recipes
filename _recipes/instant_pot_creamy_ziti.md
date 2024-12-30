@@ -1,7 +1,8 @@
 ---
 
 layout: recipe
-title: Instant Pot Creamy Ziti
+title: "Instant Pot Creamy Ziti"
+image: "instant-pot-ziti.jpg"
 tags: dinner instant_pot
 
 ingredients:

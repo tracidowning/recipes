@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Honey Oat Bread"
+image: "honey-oat-bread.jpg"
 tags: bread
 
 ingredients:

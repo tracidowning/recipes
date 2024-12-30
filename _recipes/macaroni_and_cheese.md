@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Macaroni and Cheese"
+image: "macaroni-and-cheese.jpg"
 tags: dinner
 
 ingredients:

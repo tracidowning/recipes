@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Buttermilk Pancakes"
+image: "buttermilk-pancakes.jpg"
 tags: breakfast
 
 ingredients:

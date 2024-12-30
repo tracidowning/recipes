@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Basic Crepe Batter Recipe"
+image: "crepes.jpg"
 tags: breakfast
 
 ingredients:

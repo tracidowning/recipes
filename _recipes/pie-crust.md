@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Pie Crust"
+image: "pie-crust.jpg"
 tags: dessert
 
 ingredients:

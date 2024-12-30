@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Calzones"
+image: "calzones.jpg"
 tags: dinner
 
 ingredients:

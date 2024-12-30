@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Beef Empanadas"
+image: "beef-empanadas.jpg"
 tags: dinner
 
 ingredients:

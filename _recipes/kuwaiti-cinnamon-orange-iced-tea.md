@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Kuwaiti Cinnamon-Orange Iced Tea"
+image: "orange-tea.jpg"
 tags: drink
 
 ingredients:

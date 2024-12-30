@@ -1,6 +1,8 @@
 ---
+
 layout: recipe
-title: Banana Wheat Muffins
+title: "Banana Wheat Muffins"
+image: "banana-wheat-muffins.jpg"
 tags: breakfast, breads
 
 ingredients:

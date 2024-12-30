@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Traci's Apple Crisp"
+image: "apple-crisp.jpg"
 tags: desserts
 
 ingredients:

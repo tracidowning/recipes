@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Peanut Butter Cup Butterscotch Fudge Cheesecacke"
+image: "pb-cheesecake.jpg"
 tags: desserts, cake
 
 ingredients:

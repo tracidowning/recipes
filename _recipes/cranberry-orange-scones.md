@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Cranberry-Orange Scones"
+image: "scones.jpg"
 tags: breakfast, bread
 
 ingredients:

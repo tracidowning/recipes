@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Pancakes"
+image: "pancakes.jpg"
 tags: breakfast
 
 ingredients:

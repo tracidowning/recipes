@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Potato Salad"
+image: "potato-salad.jpg"
 tags: picnic
 
 ingredients:

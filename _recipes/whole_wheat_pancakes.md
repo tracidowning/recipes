@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Whole Wheat Pancakes"
+image: "whole-wheat-pancakes.jpg"
 tags: breakfast
 
 ingredients:

@@ -1,6 +1,8 @@
 ---
+
 layout: recipe
-title: Tomato Soup
+title: "Tomato Soup"
+image: "tomato-soup.jpg"
 tags: dinner, soup
 
 ingredients:

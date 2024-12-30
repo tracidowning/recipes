@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Chocolate Protein Pancakes"
+image: "chocolate-pancakes.jpg"
 tags: breakfast
 
 ingredients:

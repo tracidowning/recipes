@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Peanut Butter Chocolate Chip Cookies"
+image: "pb-chocolate-cookies.jpg"
 tags: desserts, cookies
 
 ingredients:
