@@ -1,17 +1,17 @@
 ---
 
 layout: recipe
-title: "Basic Crepe Batter Recipe"
+title: "Crepe Batter Recipe"
 image: "crepes.jpg"
 tags: breakfast
 
 ingredients:
 - 2 large eggs
-- 1 1/4 cups whole milk (10 fluid ounces; 280ml)
 - 1 cup all-purpose flour (5 ounces; 140g)
 - 1 tablespoon melted unsalted butter or vegetable oil (1/2 ounce; 15ml), plus more for cooking
 - Pinch kosher salt
 - 1 tablespoon (8g) sugar, if making sweet crepes
+- 1 1/4 cups whole milk (10 fluid ounces; 280ml)
 - 1 tablespoon minced fresh herbs, such as parsley, tarragon, chervil, or chives (optional; for savory crepes)
 
 directions:
