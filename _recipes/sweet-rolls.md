@@ -2,7 +2,8 @@
 
 layout: recipe
 title: "Sweet Rolls"
-image:
+image: "sweet-rolls.jpg"
+imagecredit: https://gingerwithspice.com/scandinavian-sweet-rolls/
 tags: bread
 
 ingredients:
