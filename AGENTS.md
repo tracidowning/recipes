@@ -69,7 +69,7 @@ Anything after the second `---` is the body. It renders above the ingredients as
 
 ## Creating a new recipe (house style)
 
-1. **Pick the slug.** Use lowercase kebab-case from the title, e.g. `Instant Pot Chili` → `instant-pot-chili`. Older files use underscores; new files use hyphens. The slug sets the URL (`permalink: /:title`), so `instant-pot-chili.md` is served at `/instant-pot-chili`. Check `_recipes/` first so you don't create a duplicate.
+1. **Pick the slug.** Use lowercase kebab-case from the title, e.g. `Instant Pot Chili` → `instant-pot-chili`. Older files use underscores; new files use hyphens. The slug sets the URL: collection pages are served at `/<collection>/<slug>.html`, so `_recipes/instant-pot-chili.md` is at `/recipes/instant-pot-chili.html`. Check `_recipes/` first so you don't create a duplicate.
 2. **Scaffold it**, either way works:
    ```bash
    bundle exec rake new TITLE="Instant Pot Chili"
@@ -104,7 +104,7 @@ bundle install
 bin/dev
 ```
 
-`bin/dev` runs `bundle exec jekyll serve --livereload --baseurl ""`. Open http://127.0.0.1:4000/ and the new recipe at `http://127.0.0.1:4000/<slug>`.
+`bin/dev` runs `bundle exec jekyll serve --livereload --baseurl ""`. Open http://127.0.0.1:4000/ and the new recipe at `http://127.0.0.1:4000/recipes/<slug>.html`.
 
 Before pushing, confirm that:
 
@@ -148,4 +148,4 @@ git push origin gh-pages
 - Only commit and push when the user asks. Pushing publishes to the live site.
 - Recipe additions go straight to `gh-pages`; that's how the existing history works. For layout, CSS or config changes, propose a branch and PR instead.
 - GitHub Pages uses the `github-pages` gem's plugin allowlist. Don't add Jekyll plugins that aren't on it; they work locally but fail on Pages.
-- After pushing, the site usually updates within a couple of minutes. Check `https://recipes.downing.us/<slug>`. If it doesn't appear, look at the repo's **Actions → pages-build-deployment** run (or `gh run list --workflow pages-build-deployment` if `gh` is installed) for the build error.
+- After pushing, the site usually updates within a couple of minutes. Check `https://recipes.downing.us/recipes/<slug>.html`. If it doesn't appear, look at the repo's **Actions → pages-build-deployment** run (or `gh run list --workflow pages-build-deployment` if `gh` is installed) for the build error.
